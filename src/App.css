@@ -25,12 +25,13 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #9ae9ff;
 }
 
 @media only screen and (max-width: 600px) {
   body {
     background-color: #61dafb;
+    flex: justify-content;
   }
 }
 
